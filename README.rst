@@ -3,9 +3,9 @@ Charged defects analysis
 
 - potential_alignment.ipynb
 
-  python notebook that implements potential alignment correction to
-  defect formation energy of charged defects, calculated using
-  simulation package VASP.
+   python notebook that implements potential alignment correction to
+   defect formation energy of charged defects, calculated using
+   simulation package VASP.
 
 - INPUT:
 
@@ -14,5 +14,5 @@ Charged defects analysis
 
 - OUTPUT:
 
-  Potential plot to read of short range potential needed to apply
-  alignment correction.
+   Potential plot to read of short range potential needed to apply
+   alignment correction.
